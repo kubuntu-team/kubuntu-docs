@@ -37,7 +37,7 @@ Plasmoids (also called Widgets) can be added by right-clicking the desktop and s
 Panel 
 ~~~~~~
 
-.. image:: ../../images/jammy/advanced/panels.png
+.. image:: ../images/jammy/advanced/panels.png
     :align: left
     :scale: 75 %
 
@@ -57,7 +57,7 @@ KDE Activites in Kubuntu provide a slick way to setup and configure environments
 Activities First Look
 ~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../../images/jammy/advanced/activities.png
+.. image:: ../images/jammy/advanced/activities.png
    :align: center
    :scale: 75 %
    
@@ -82,7 +82,7 @@ OK, lets configure a few useful tools
 
 You can now resize these widgets and lay them out on the desktop however you wish. and configure them to suit your needs, as in the example below.
 
-.. image:: ../../images/jammy/advanced/activity-misc.png
+.. image:: ../images/jammy/advanced/activity-misc.png
    :align: center
    :scale: 75 %
 
@@ -94,7 +94,7 @@ On every Operating System (Windows, macOS, and Linux) there are programs called 
 
 1. Start Discover 
 
-.. image:: ../../images/jammy/repositories/discover-manage.png
+.. image:: ../images/jammy/repositories/discover-manage.png
     :align: center
     :scale: 75 %
 
@@ -102,7 +102,7 @@ On every Operating System (Windows, macOS, and Linux) there are programs called 
 3. Enter your administrative password at the prompt
 4. Left-click the 'Additional Drivers' tab 
 
-.. image:: ../../images/jammy/advanced/drivers.png
+.. image:: ../images/jammy/advanced/drivers.png
     :align: center
     :scale: 85 %
 

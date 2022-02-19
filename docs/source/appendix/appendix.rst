@@ -8,5 +8,4 @@ Contents:
    :maxdepth: 2
    :titlesonly:
    
-   changes
    references
