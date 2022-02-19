@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Kubuntu Docs'
+copyright = '2022, Kubuntu Team'
+author = 'Aaron Honeycutt'
 
-release = '0.1'
-version = '0.1.0'
+release = '22.04'
+version = '22.04.0'
 
 # -- General configuration
 
