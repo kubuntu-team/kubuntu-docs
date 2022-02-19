@@ -9,6 +9,8 @@ Welcome to Kubuntu's Documentation!
 Contents:
 
 .. toctree::
+   :maxdepth: 2
+   :titlesonly:
      
    welcome
    installation
