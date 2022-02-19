@@ -1,22 +1,30 @@
-Welcome to Lumache's documentation!
-===================================
+.. Kubuntu Docs documentation master file, created by
+   sphinx-quickstart on Mon May  4 19:06:54 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to Kubuntu's Documentation!
+========================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Contents:
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   welcome
+   installation
+   desktop-guide/desktop-list
+   software-management/software-list
+   contribute
+   support
+   packaging-guide/packaging
+   appendix/appendix
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
