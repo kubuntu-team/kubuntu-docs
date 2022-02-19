@@ -11,7 +11,7 @@ Launchers
 Kickoff
 ~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../../images/jammy/basic/kickoff.png
+.. image:: ../images/jammy/basic/kickoff.png
     :scale: 75 %
     :align: center
     :target: https://userbase.kde.org/Special:MyLanguage/Plasma/Kickoff
