@@ -13,13 +13,13 @@ Contents:
    :titlesonly:
    
    welcome
-   docs/installation
-   docs/desktop-guide/desktop-list
-   docs/software-management/software-list
-   docs/contribute
-   docs/support
-   docs/packaging-guide/packaging
-   docs/appendix/appendix
+   installation
+   desktop-guide/desktop-list
+   software-management/software-list
+   contribute
+   support
+   packaging-guide/packaging
+   appendix/appendix
 
 
 Indices and tables
