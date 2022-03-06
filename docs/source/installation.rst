@@ -13,7 +13,7 @@ Some of them include:
   instant messaging, and many others. For a list of the included software, see the 
   :ref:`software-link` page.
  
-- Kubuntu is a free, open-source alternative to Windows and Mac OS X.
+- Kubuntu is a free, open-source alternative to Windows and macOS.
 
 - Easily install beside, or instead of, Windows.
 
