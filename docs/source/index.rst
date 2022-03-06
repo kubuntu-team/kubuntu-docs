@@ -9,17 +9,25 @@ Welcome to Kubuntu's Documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-     
+   :maxdepth: 1
+
    welcome
+
+.. toctree::
+   :maxdepth: 1
+   
    installation
+   
+.. toctree::
+   :maxdepth: 1
+   
    desktop-guide/desktop-list
    software-management/software-list
+   
    contribute
    support
    packaging-guide/packaging
    appendix/appendix
-
 
 Indices and tables
 ==================
