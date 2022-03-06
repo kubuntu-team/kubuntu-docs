@@ -48,7 +48,7 @@ You can use the Discover to add a PPA:
 3. Open Konsole then copy (Ctrl+C once the command is highlighted) 
 4. Now paste (Ctrl+Shift+V in terminals like Konsole) and press the Enter key
 
-.. image:: ../../images/jammy/repositories/konsole-add-ppa.png
+.. image:: ../images/jammy/repositories/konsole-add-ppa.png
     :align: center
     :scale: 75 %
 
@@ -61,7 +61,7 @@ You can use the Discover to remove a PPA:
 
 1. Open Discover then left-click Settings on the bottom left
 
-.. image:: ../../images/jammy/repositories/discover-manage.png
+.. image:: ../images/jammy/repositories/discover-manage.png
     :align: center
     :scale: 75 %
 
@@ -69,7 +69,7 @@ You can use the Discover to remove a PPA:
 3. Enter your administrative password at the prompt.
 4. Left-click on the 'Other Software' tab
 
-.. image:: ../../images/jammy/repositories/discover-other-software.png
+.. image:: ../images/jammy/repositories/discover-other-software.png
     :align: center
     :scale: 75%
 
