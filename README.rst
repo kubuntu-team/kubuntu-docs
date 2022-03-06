@@ -23,11 +23,9 @@ Resources:
 License:
 --------
 
-Licensed under CC-BY-SA 4.0 Following this: https://community.kde.org/Policies/Licensing_Policy
-
-.. image:: https://img.shields.io/badge/code-GPLv3-blue.svg
-    :target: https://www.gnu.org/licenses/gpl-3.0.en.html
-    :alt: Code GPLv3
+.. image:: https://img.shields.io/badge/license-FDL-blue.svg
+    :target: https://l10n.kde.org/docs/doc-primer/licenses.html
+    :alt: Code FDL
 
 .. image:: https://img.shields.io/badge/documentation-CC%20BY--ND-lightgrey.svg
     :target: https://creativecommons.org/licenses/by-nd/4.0/
