@@ -2,6 +2,13 @@ This document can be read at https://kubuntu-docs.readthedocs.io.
 
 The docs are written in `reStructuredText <http://www.sphinx-doc.org/rest.html>`_.
 
+Version Scheme
+---------------
+
+This project is following the Ubuntu release cycle when it comes to numbers so the initial release will have 22.04.0 (for that Kubuntu release) then updates will follow a point based system, for example the next update would be 22.04.1.
+
+This does not mean that the 22.04.1 release of the manual can't be used with the 22.04.0 release of Kubuntu.
+
 Build:
 ------
 
