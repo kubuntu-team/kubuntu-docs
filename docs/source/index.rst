@@ -62,9 +62,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Intro and Installation
+   :caption: Installation
 
-   welcome
    installation
    
 .. toctree::
