@@ -13,7 +13,7 @@ Graphical Clients
 
 By default Kubuntu comes with a great package manager called Discover. Discover is an advanced program with a graphical user interface (GUI) for installing and removing applications. It will automatically notify you for updates (in the lower right hand corner), but you can use it at anytime to install new packages by opening your launcher or KRunner and type 'Discover' then select  Discover from the results.
 
-.. image:: ../../images/jammy/software/discover.png
+.. image:: ../images/jammy/software/discover.png
 
 Discover might provide information about the required dependencies, these are other packages (software) that the piece of software that you want to install needs to run. Once this information is acknowledged, the required packages will begin downloading then be installed. When the installation process is complete, the software will be ready to use. It is rarely necessary to restart the system after software installation or updates. If it is, the system will warn you and give you a restart icon to do the restart at your convenience.
 
