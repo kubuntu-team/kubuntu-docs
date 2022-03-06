@@ -10,22 +10,29 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
+   :caption: Intro and Installation
 
    welcome
-
-.. toctree::
-   :maxdepth: 1
-   
    installation
    
 .. toctree::
    :maxdepth: 1
+   :caption: Using the OS
    
    desktop-guide/desktop-list
    software-management/software-list
    
+.. toctree::
+   :maxdepth: 1
+   :caption: Reaching Out
+   
    contribute
    support
+ 
+.. toctree::
+   :maxdepth: 1
+   :caption: Packaging
+   
    packaging-guide/packaging
    appendix/appendix
 
