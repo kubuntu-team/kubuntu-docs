@@ -98,7 +98,7 @@ Install Process
 
 .. note:: You will need to press a special key on the keyboard in order to boot from your chosen Installation Media. Ex: Esc, F2, F10, F12, or Del it all depends on the OEM(Original Equipment Manufacturer) 
 
-.. image:: ../images/jammy/installation/welcome-slide.png
+.. image:: images/jammy/installation/welcome-slide.png
     :align: center
 
 When the installer starts you will see these options:
