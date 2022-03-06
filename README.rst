@@ -20,6 +20,7 @@ Resources:
 * http://www.writethedocs.org/guide/
 * https://developers.google.com/style/highlights
 
+
 License:
 --------
 
@@ -34,6 +35,7 @@ License:
 .. image:: https://img.shields.io/badge/screenshots-CC0-ff69b4.svg
     :target: https://creativecommons.org/publicdomain/zero/1.0/
     :alt: Screenshots CC0
+    
 
 Read the tutorial here:
 
